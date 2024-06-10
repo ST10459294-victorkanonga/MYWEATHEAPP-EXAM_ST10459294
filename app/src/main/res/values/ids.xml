@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dayTextView" type="id" />
+    <item name="minTempTextView" type="id" />
+    <item name="maxTempTextView" type="id" />
+    <item name="conditionTextView" type="id" />
+</resources>
